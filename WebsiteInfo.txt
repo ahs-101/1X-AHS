@@ -1,0 +1,452 @@
+================================================================================
+  WEBSITE INFO — 1X TECHNOLOGIES | www.1x.tech
+  Analyzed: April 2026
+================================================================================
+ 
+────────────────────────────────────────────────────────────────────────────────
+BRAND NAME
+────────────────────────────────────────────────────────────────────────────────
+1X (also written as "1X Technologies" in corporate/legal contexts)
+Formerly known as: Halodi Robotics (founded 2014)
+Primary product brand: NEO
+ 
+────────────────────────────────────────────────────────────────────────────────
+TAGLINE
+────────────────────────────────────────────────────────────────────────────────
+"Home Robots"
+(Used as the site-level descriptor in the browser tab: "1X | Home Robots")
+ 
+────────────────────────────────────────────────────────────────────────────────
+ONE-LINER
+────────────────────────────────────────────────────────────────────────────────
+"Building a world where we do more of what we love, while our humanoid
+companions handle the rest."
+ 
+Mission statement (from About page):
+"We're an AI and robotics company based in Palo Alto, California, on a mission
+to build a truly abundant society through general-purpose robots capable of
+performing any kind of work autonomously."
+ 
+────────────────────────────────────────────────────────────────────────────────
+BRAND VOICE
+────────────────────────────────────────────────────────────────────────────────
+Tone: Warm, human-centered, quietly confident. Never cold or tech-industrial.
+The language is optimistic and emotionally accessible — words like "cozy,"
+"gentle," "soft," "laugh," and "companion" dominate product copy. Technical
+specs are presented but never foregrounded. The brand speaks to the home and
+relationships, not efficiency or productivity.
+ 
+Vocabulary examples from the site:
+- "Transform Your Home"
+- "Soft and Safe"
+- "Laugh and Learn"
+- "Grows With You"
+- "Comfortable to be Around"
+- "Reclaim Time"
+- "Helpful Intelligence"
+- "Automate Your Chores"
+- "Experience Humanoid"
+- "Experience NEO"
+ 
+Voice archetype: Gentle innovator — intelligent but approachable, visionary
+but grounded in everyday life.
+ 
+────────────────────────────────────────────────────────────────────────────────
+COLORS
+────────────────────────────────────────────────────────────────────────────────
+Overall Palette: Dark, cinematic, premium. The site uses a near-black or deep
+charcoal background that creates a high-contrast canvas for full-bleed imagery.
+ 
+Primary Background: Very dark gray / near-black (#0d0d0d or similar deep tone)
+Text: White / off-white for headings; light gray for body copy
+Accent: Warm natural tones — the robot is available in earthy/natural colorways
+  - NEO Color Variants shown: Warm White / Cream, Warm Tan/Blush, and a
+    darker Mocha/Brown tone (three colorways shown in hero)
+UI Highlights: Minimal use of accent color; the photography and robot imagery
+provide all warmth and color
+Button style: High-contrast white text on dark or bordered buttons
+Section labels (e.g. "UTILITY", "DESIGN", "COMPANION", "INTELLIGENCE"):
+  rendered in small caps, spaced tracking, likely light gray or muted white
+ 
+────────────────────────────────────────────────────────────────────────────────
+NAVIGATION MENU
+────────────────────────────────────────────────────────────────────────────────
+Primary Nav (top bar — all pages):
+  • Neo          → https://www.1x.tech/neo
+  • AI           → https://www.1x.tech/ai
+  • Stories      → https://www.1x.tech/discover
+  • Careers      → https://www.1x.tech/careers
+  • About        → https://www.1x.tech/about
+  • Shop         → https://1x.shop  (external)
+ 
+CTA Button (persistent in top-right):
+  • [Order]      → https://www.1x.tech/order
+ 
+Footer Nav (extended set):
+  • NEO
+  • Careers
+  • AI
+  • About
+  • Stories
+  • Robot Fleet  → https://www.1x.tech/robot-fleet
+  • Logs         → https://www.1x.tech/logs
+ 
+────────────────────────────────────────────────────────────────────────────────
+HERO SECTION
+────────────────────────────────────────────────────────────────────────────────
+Page: Homepage (www.1x.tech)
+ 
+Visual: Full-bleed, full-viewport image of three NEO robots in different color
+variants (warm white, tan/blush, brown/mocha), photographed in soft natural
+light. A secondary image shows the same robot set with a slightly different
+angle or lighting (animated / crossfade slider effect).
+ 
+Headline:
+  "NEO
+   Home Robot"
+  (Stacked two-line display — "NEO" is the large hero word)
+ 
+Sub-text / CTA area:
+  "$200 Deposit"
+  [Order] button
+ 
+Below hero, a second full-screen section appears:
+  Headline: "Careers — 136 Open roles"
+  Visual: NEO robot and a man standing back-to-back, life-size comparison
+ 
+Third full-screen section:
+  Headline: "Experience NEO"
+  Sub-copy: Invitation to get notified / watch keynote
+  Visual: Video thumbnail with play interaction
+  CTA: "Get notified" (email opt-in)
+ 
+────────────────────────────────────────────────────────────────────────────────
+SHADERS / BACKGROUNDS
+────────────────────────────────────────────────────────────────────────────────
+The site is heavy on full-bleed photography and video rather than CSS gradient
+shaders. Key background treatments:
+ 
+1. Full-bleed dark photography (hero, section backgrounds)
+   — High-resolution images of NEO in nature (forest, outdoors, leaves)
+   — Cinematic color grade: dark, moody, warm shadows
+ 
+2. Full-viewport video thumbnails
+   — Mux-hosted video embeds used as background/preview tiles
+   — Play-button overlay with soft darkening vignette
+ 
+3. Dark background sections
+   — Pure or near-black flat backgrounds for spec tables and FAQ areas
+   — White typography floats clean on dark surfaces
+ 
+4. Split-section image+text layouts
+   — Large image occupies 50–60% of width, text on dark side
+   — Subtle fade or blur edges at transitions
+ 
+5. Scroll-triggered image carousel / crossfade
+   — Hero alternates between two images (animated webp or CSS transition)
+ 
+No heavy particle systems, WebGL shaders, or generative backgrounds detected.
+The visual depth comes entirely from photography and dark negative space.
+ 
+────────────────────────────────────────────────────────────────────────────────
+SCROLL AREAS
+────────────────────────────────────────────────────────────────────────────────
+The site uses a structured, section-by-section scroll experience with
+full-viewport (100vh) sections. Notable scroll behaviors:
+ 
+Homepage:
+  1. Hero: NEO robot full-screen with order CTA
+  2. Careers teaser: NEO + human back-to-back, full-screen
+  3. Experience NEO: Video play section with email capture
+ 
+NEO Product Page (www.1x.tech/neo):
+  1. Hero: NEO robot full-bleed with "Home Robot" + Order CTA
+  2. "Transform Your Home" — 3 value prop icons, intro
+  3. Section tabs: [Utility] [Design] [Companion] [Intelligence]
+  4. UTILITY: "Automate Your Chores" — animated text/chore labels
+  5. "Expert Mode" — explanation of 1X supervised learning
+  6. DESIGN: "Soft and Safe" — 4 design attributes + image gallery
+     (Emotive Ear Ring, Tendon-Driven, Gentle, Cozy Design, Knit Suit, Soft Body)
+  7. COMPANION: "Laugh and Learn" — 3 companion attributes
+  8. INTELLIGENCE: "Grows With You" — AI evolution narrative
+  9. Product Spec Grid: Utility / Design / AI / Hardware tabs
+  10. Comes With: Charger, Lint Roller, Case
+  11. FAQ: 19 collapsible questions
+  12. Final CTA: NEO order repeat
+ 
+AI Page (www.1x.tech/ai):
+  1. Hero: NEO brushing man's hair — cinematic image
+  2. Headline: "Artificial Intelligence — Latest AI Updates"
+  3. World Model update (1.12.26): "Learning New Abilities"
+  4. World Model update (6.16.25): "Evaluation"
+  5. Video grid: Multiple Mux video thumbnails
+  6. Redwood AI update (6.11.25): "Mobility"
+  7. Redwood AI update (6.10.25): "Introducing Redwood AI"
+  8. Now Hiring: Open AI roles list
+  9. Email CTA: "Experience Humanoid — Subscribe"
+ 
+About Page (www.1x.tech/about):
+  1. Mission Statement section
+  2. Company timeline (vertical scroll):
+     — 2014: Beginnings / Halodi Robotics
+     — 2018: Revo1 Powers Up
+     — 2022: EVE deployed in factories
+     — 2023: 1X bets on the home
+     — 2024: Introduced NEO Beta
+     — 2025: NEO Gamma
+     — 2025: NEO In Your Home (Early Access)
+     — 2026: Transform Your Home (current)
+     — 2027: Abilities Keeps Growing (future)
+ 
+────────────────────────────────────────────────────────────────────────────────
+FEATURES SECTION
+────────────────────────────────────────────────────────────────────────────────
+Organized under 4 major pillars (tab-based on /neo and /order):
+ 
+── UTILITY ──
+• Autonomy ("Get the door")
+  NEO uses Redwood AI — 1X's Generalist AI model — for learning and repeating
+  tasks. Arrives with basic autonomy and grows in capability over time.
+ 
+• Scheduled Expert Mode ("Laundry")
+  For complex tasks NEO doesn't know, a 1X Expert can remotely supervise its
+  actions at scheduled times to help it learn and get the job done.
+ 
+• Voice Interface
+  Speak naturally to NEO to access all features without devices.
+ 
+• Mobile Interface (NEO App)
+  Manage chore schedule, communicate remotely, monitor NEO and more.
+ 
+• Self-Charge
+  NEO manages its own battery life. When it needs a charge — it plugs itself in.
+ 
+• Remote Control
+  Pilot NEO from anywhere via Mobile App & VR device.
+ 
+• Emotive Ear Rings
+  Communicate NEO's state and status (battery, attention, etc.).
+ 
+• Boom Box
+  Use NEO as a mobile Bluetooth speaker anywhere in the home.
+ 
+── DESIGN ──
+• Soft Body
+  All hardware wrapped in custom 3D lattice polymer for safety and cushioning.
+ 
+• Safe Movements
+  1X Tendon Drive actuation creates precise, low-energy movements for home use.
+ 
+• Pinch Proof
+  Joints covered from outside access — surface entirely pinch proof.
+ 
+• Body Language
+  NEO understands and responds to human gestures and expressions.
+ 
+• Comfortable to be Around
+  Designed to complement your living space, not disrupt it.
+ 
+• Machine Washable
+  Soft suit and shoes made from machine washable nylon.
+ 
+── ARTIFICIAL INTELLIGENCE ──
+• Redwood AI
+  Vision language model for learning and performing chores. [Learn more → /ai]
+ 
+• Built-in LLM
+  Interaction driven by large language model capable of understanding,
+  reasoning, and conversing.
+ 
+• Audio Intelligence
+  Interprets audio cues and conversational context.
+ 
+• Memory
+  Retains information to personalize your experience.
+ 
+• Visual Intelligence
+  Uses visual input to enhance conversations.
+ 
+• Fully Mobile
+  Uses AI for navigating to where it's needed.
+ 
+── HARDWARE (Specs) ──
+Robot:
+  Height: 5'6" | Weight: 66 lbs | Lift: 154 lbs | Carry: 55 lbs
+  Arm Payload: 18 lbs
+ 
+Degrees of Freedom:
+  Hands: 22×2 | Arms: 7×2 | Neck: 3 | Spine: 2 | Legs: 6×2
+ 
+Speed:
+  Hands: 8.0 m/s | Max run: 6.2 m/s | Walking: 1.4 m/s
+ 
+Battery:
+  Capacity: 842 Wh | Run-time: 4h | Quick charge: 6 min per hour runtime
+ 
+Compute:
+  Chipset: 1X NEO Cortex (Nvidia Jetson Thor)
+  AI Compute: Up to 2070 FP4 TFLOPS
+  Microphone: 4 beamforming mics
+  Speakers: 3-stage (pelvis and chest)
+  Camera: Dual 8.85MP 90Hz Stereo Fisheye
+  Communication: WiFi, Bluetooth, 5G
+ 
+Safety:
+  Body: Soft with custom lattice polymer | Joints: No pinchpoints
+  HIC: <250 | Actuation: Low inertia tendon drives
+ 
+Ingress Protection:
+  Hands: IP68 (submersible) | Body: IP44 (splash proof)
+ 
+Audible Noise: 22 dB
+ 
+────────────────────────────────────────────────────────────────────────────────
+PRICING SECTION
+────────────────────────────────────────────────────────────────────────────────
+Two options presented on the Order page (www.1x.tech/order):
+ 
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  STANDARD                                                                   │
+│  $499 / month (Subscription)                                                │
+│                                                                             │
+│  Includes:                                                                  │
+│  • Monthly Subscription                                                     │
+│  • Starter Productivity Package                                             │
+│  • Standard Delivery                                                        │
+└─────────────────────────────────────────────────────────────────────────────┘
+ 
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  EARLY ACCESS                                                               │
+│  $20,000 (Ownership)                                                        │
+│                                                                             │
+│  Includes:                                                                  │
+│  • Ownership with 3-Year Warranty                                           │
+│  • Premium Support                                                          │
+│  • Priority Delivery                                                        │
+│                                                                             │
+│  $200 Deposit Due Today — Fully Refundable                                  │
+│  US Deliveries start 2026                                                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+ 
+Note: "In the Box" items included with both: Charger, Lint Roller, Carry Case.
+Subscription pricing may include an optional data-sharing toggle mentioned in FAQ.
+ 
+────────────────────────────────────────────────────────────────────────────────
+CALLS TO ACTION
+────────────────────────────────────────────────────────────────────────────────
+Primary CTAs (appearing across most pages):
+  • [Order]            → https://www.1x.tech/order  (persistent nav button)
+  • [Order Now]        → https://www.1x.tech/order  (hero and bottom sections)
+  • "$200 Deposit"     → pricing framing CTA on homepage and NEO page
+ 
+Secondary CTAs:
+  • [Get notified]     → email opt-in form (homepage)
+  • [Get Updates]      → https://www.1x.tech/get-updates (footer)
+  • [Join waitlist]    → About page bottom email capture
+  • [Subscribe]        → AI page bottom email capture
+  • [Watch Keynote]    → https://youtu.be/LTYMWadOW7c
+  • [Watch Design]     → https://youtu.be/mveqrNJj8ME
+  • [Watch] / [Read]   → AI update entries on /ai page
+  • [Learn more]       → Redwood AI link on NEO product tabs
+ 
+Careers CTA:
+  • "136 Open roles"   → https://www.1x.tech/careers
+  • [View All (136)]   → from AI page hiring section
+ 
+────────────────────────────────────────────────────────────────────────────────
+CARDS
+────────────────────────────────────────────────────────────────────────────────
+The site uses several distinct card-style content blocks:
+ 
+1. VALUE PROP ICON CARDS (NEO page — "Transform Your Home" section)
+   Layout: Icon + bold title + short description, displayed in a horizontal row
+   Examples:
+   • 🤝 Helping Hand — "Provides assistance with everyday tasks"
+   • ⏱ Reclaim Time — "Automates household chores, freeing time for priorities"
+   • 💡 Helpful Intelligence — "Brings useful insight into every conversation"
+ 
+2. FEATURE ICON CARDS (NEO product tab — small icon grids)
+   Layout: Small SVG icon + bold feature name + one-sentence description
+   Examples (Utility tab):
+   • Voice Interface — "Speak naturally to NEO to access all features"
+   • Mobile Interface — "Manage chore schedule, communicate remotely, monitor"
+   • Self-Charge — "Plugs itself in when it needs a charge"
+   • Remote Control — "Pilot from anywhere via Mobile App & VR device"
+   • Emotive Ear Rings — "Communicate state and status"
+   • Boom Box — "Mobile Bluetooth speaker anywhere in the home"
+ 
+3. COMPANION ATTRIBUTE CARDS (NEO page — "Laugh and Learn" section)
+   • Smart — "Ask anything—history, recipes, or advice—and get real-time answers"
+   • Contextual help — "Pairs visual/spatial awareness with memory to personalize"
+   • Fun — "Shares jokes, stories, and games for lively, natural conversations"
+ 
+4. DESIGN ATTRIBUTE CARDS (NEO page — "Soft and Safe" section)
+   • Light — "Fewer components make NEO lightweight without compromising"
+   • Quiet — "Operates at a noise level quieter than a modern refrigerator"
+   • Soft — "Deformable 3D lattice wraps internal components for cushion"
+   • Gentle — "Tendon-driven actuators create safe movements"
+ 
+5. AI UPDATE CARDS (AI page — timeline-style feed)
+   Layout: Date badge + label (e.g. "WORLD MODEL") + headline + image/video +
+           [Watch] and [Read] links
+   Examples:
+   • 1.12.26 — "Learning New Abilities"
+   • 6.16.25 — "Evaluation"
+   • 6.11.25 — "Mobility"
+   • 6.10.25 — "Introducing Redwood AI"
+ 
+6. JOBS CARDS (AI page — "Now Hiring" section)
+   Layout: Role title + Location
+   Examples:
+   • AI Research Engineer – Scaling / San Carlos, CA
+   • Software Engineer – Simulation / San Carlos, CA
+   • AI Research Engineer – Robotic Learning / San Carlos, CA
+   • AI Research Engineer – Data Infrastructure / San Carlos, CA
+   • AI Research Engineer – World Models / San Carlos, CA
+   • AI Research Engineer – Reinforcement Learning / San Carlos, CA
+ 
+7. IN THE BOX CARDS (NEO order page)
+   Layout: Product photo + label
+   • Charger
+   • Lint Roller
+   • Case
+ 
+8. TIMELINE CARDS (About page — company history)
+   Layout: Year badge + section name + description paragraph + image
+   Example entries: 2014 Beginnings, 2018 Revo1, 2022 EVE, 2023 Home, etc.
+ 
+────────────────────────────────────────────────────────────────────────────────
+FOOTER
+────────────────────────────────────────────────────────────────────────────────
+Logo: 1X wordmark/logomark (SVG) — links back to homepage
+ 
+Copyright: "1X © 2026"
+ 
+Navigation Links (columns):
+  Column 1 — Products & Pages:
+    NEO | Careers | AI | About | Stories | Robot Fleet | Logs
+ 
+  Column 2 — Legal & Support:
+    Terms of Use          → /terms-and-conditions
+    Privacy & Cookies     → /privacy-policy
+    Press                 → /press
+    Support               → /support
+ 
+  Column 3 — Engagement:
+    Get Updates           → /get-updates
+    Investor Relations    → /investor-relations
+ 
+Social Media Links:
+    LinkedIn  → https://www.linkedin.com/company/1x-technologies
+    YouTube   → https://www.youtube.com/@1X-tech
+    Instagram → https://www.instagram.com/1x.technologies/
+    TikTok    → https://www.tiktok.com/@1x.tech
+    X (Twitter) → https://x.com/1x_tech
+ 
+Footer Style: Dark background matching site theme. Clean, minimal. Social icons
+likely displayed as recognizable brand icons inline. No heavy imagery.
+ 
+================================================================================
+  END OF FILE
+================================================================================
+ 
